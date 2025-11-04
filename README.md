@@ -33,13 +33,13 @@ Star UML
 <img width="1018" height="889" alt="image" src="https://github.com/user-attachments/assets/86b39713-f191-4c36-8d51-e97ed1294b29" />
 
 ### PACKAGE DIAGRAM:
-<img width="904" height="688" alt="image" src="https://github.com/user-attachments/assets/760e2ca8-b9c6-4b96-96de-2deffd9253ea" />
+<img width="1139" height="800" alt="image" src="https://github.com/user-attachments/assets/92d30bb4-13f8-460f-b658-3401975efb3b" />
 
 ### COMMUNICATION DIAGRAM:
 <img width="1228" height="1007" alt="image" src="https://github.com/user-attachments/assets/f5f1ca44-968a-426c-92d3-9713ee21f275" />
 
 ### ACTIVITY DIAGRAM:
-<img width="580" height="862" alt="image" src="https://github.com/user-attachments/assets/8108d33d-57d3-40f8-a715-d777c04bcaf0" />
+<img width="684" height="1023" alt="image" src="https://github.com/user-attachments/assets/81f76c4d-e2fe-42bd-8f8b-7276328c820a" />
 
 
 
